@@ -2,6 +2,7 @@
 title: null和undefined的区别
 date: 2016-06-20 16:51:29
 tags:
+     - JavaScript
 ---
 > 目前来说，null和undefined是基本同义的，只有一些细微差别。
 

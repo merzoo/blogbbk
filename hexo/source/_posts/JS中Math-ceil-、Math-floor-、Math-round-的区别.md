@@ -2,6 +2,7 @@
 title: JS中Math.ceil() 、Math.floor() 、Math.round()的区别
 date: 2016-04-18 18:05:06
 tags:
+     - JavaScript
 ---
 > 在工作中经常会使用到Math.ceil() 、Math.floor()和Math.round()这三个函数，并且经常记不清楚产生混淆，这次通过JavaScript: The Definitive Guide, 4th Edition对这三个函数的原型定义的理解，彻底厘清三者的区别。
 
