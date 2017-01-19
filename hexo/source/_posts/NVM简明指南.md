@@ -2,6 +2,7 @@
 title: NVM简明指南
 date: 2016-10-26 22:01:29
 tags:
+     - 随笔
      - 前端工程
 ---
  <font color="red">本教程适用于windows用户</font>
